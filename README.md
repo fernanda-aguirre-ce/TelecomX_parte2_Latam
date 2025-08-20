@@ -1,5 +1,5 @@
 # TelecomX_parte2_Latam
-# Informe de Churn – TelecomX LATAM (versión estudiante)
+# Informe de Churn – TelecomX LATAM 
 
 ---
 
